@@ -20,7 +20,7 @@ print("Done")
 
 # Create arrays of known face encodings and their names
 known_face_encodings = [person_1_face_encoding ] 
-known_face_names = ["your name" ]
+known_face_names = ["enter your name" ]
 
 
 
